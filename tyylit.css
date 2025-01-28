@@ -129,7 +129,6 @@ input[type=submit]
   {
     display: inline;
 
-    
   }
 
   .social-icons a
@@ -141,7 +140,7 @@ input[type=submit]
   {
     ul li
     {
-      display: flex;
+      display: block;
     }
   }
 
