@@ -139,9 +139,10 @@ input[type=submit]
 
   @media screen and (max-width: 600px) 
   {
-    .navbar
+    ul li
     {
       display: flex;
     }
   }
 
+ 
